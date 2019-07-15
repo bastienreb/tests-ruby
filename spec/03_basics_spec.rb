@@ -1,4 +1,3 @@
-require_relative '../lib/03_basics'
 
 describe 'who is the biggest number' do
   # Hint: 'def who_is_bigger(a, b, c)'
